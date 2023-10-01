@@ -1,0 +1,1 @@
+# This shopping app is completely based on django with all feature
